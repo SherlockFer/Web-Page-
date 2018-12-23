@@ -3236,7 +3236,8 @@ img {
   background-color: #FFF;
   display: inline;
   float: left;
-  padding: 10px;
+  padding: 50px;
+  padding-top: 10px;
   width: 100%;
 }
 #aa-contact .aa-contact-area .aa-contact-address .aa-contact-address-left {
